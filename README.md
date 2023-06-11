@@ -8,5 +8,7 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
 # se_project_library
-# se_project_library
+
+- Moved from local folder to a new folder to create new repository on GitHub. No longer using "Organization"
