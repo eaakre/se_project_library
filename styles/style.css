@@ -360,7 +360,7 @@
   box-sizing: border-box;
   display: flex;
   gap: 120px;
-  z-index: -2;
+  z-index: 0;
 }
 
 .about__title {
@@ -466,4 +466,5 @@
 
 .footer__copyright {
   margin-top: 108px;
+  margin-bottom: 0;
 }
